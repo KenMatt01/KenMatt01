@@ -6,7 +6,7 @@ I'm a recent graduate with a Bachelor's in Cybersecurity, and fundamental knowle
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity & Blue Team activities, and I am now eager to transition into this field, specifically aiming to join a SOC/Security tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity & Blue Team activities. I am eager to kickstart my career in this field, specifically to join a SOC/Security tier 1 Analyst.
 Here, I'll showcase some of the projects I have worked on and the skills I possess in my arsenal.
 
 

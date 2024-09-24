@@ -27,6 +27,7 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ## Skills
 
+| Skillset                                                                   |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | Threat Analysis | Linux|
 | Network Traffic Monitoring and Attack Detection | NMap | Project Management|

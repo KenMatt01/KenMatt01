@@ -27,16 +27,6 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ## Skills
 
-| SIEM Implementation and Log Analysis          | Threat Analysis      | Linux                |
-|-----------------------------------------------|----------------------|----------------------|
-| Network Traffic Monitoring and Attack Detection | NMap                | Project Management   |
-| Security Automation with Shuffle SOAR         | BurpSuite            | IT Operations        |
-| Incident Response Planning and Execution      | SQL                  | Microsoft Office     |
-| Case Management with TheHive                  | Networking           | Python               |
-| Scripting and Automation for Threat Mitigation | VAPT                | Splunk               |
-
-
-## 
 |   |   |   |
 |---|---|---|
 | SIEM Implementation and Log Analysis          | Threat Analysis      | Linux                |
@@ -45,3 +35,7 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 | Incident Response Planning and Execution      | SQL                  | Microsoft Office     |
 | Case Management with TheHive                  | Networking           | Python               |
 | Scripting and Automation for Threat Mitigation | VAPT                | Splunk               |
+
+
+## 
+

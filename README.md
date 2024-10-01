@@ -40,6 +40,7 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ### *Engineering & Technology Operations*
 Zalora Group | Internship | Selangor, Malaysia
+<sub>*Aug,2022 - Dec,2022*</sub>
 - End-user support 
 - Systems deployment and maintenance
 - Device Inventory Handling
@@ -47,8 +48,8 @@ Zalora Group | Internship | Selangor, Malaysia
 
 ### *IT Technician*
 Prime Services | Part-Time | Kerala, India
+<sub>*Jan,2024 - Oct,2024*</sub>
 - Software & Hardware Maintenance 
 - Troubleshooting
 - Service record audits
 
-<sub>This text will appear smaller</sub>

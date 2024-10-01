@@ -40,10 +40,10 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 ## Experience
 
 ### *Engineering & Technology Operations*
-Zalora Group | Internship
-Selangor, Malaysia
+Zalora Group | Internship | Selangor, Malaysia
 
 ### *IT Technician*
-Prime Services | Part-Time
-Kerala, India
+Prime Services | Part-Time | Kerala, India
+
+jhjh
 

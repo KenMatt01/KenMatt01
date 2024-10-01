@@ -4,7 +4,6 @@
 I'm a recent graduate with a Bachelor's in Cybersecurity, and fundamental knowledge in threat analysis, risk management, and network security. Eager to embark on a dynamic career securing digital landscapes against evolving cyber threats. Adept at collaborating with cross-functional teams to ensure the confidentiality, integrity, and availability of sensitive information. Let's connect and explore how I can contribute to your organization's cyber resilience.
 
 
-## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity & Blue Team activities. I am eager to kickstart my career in this field, specifically to join a SOC/Security tier 1 Analyst.
 Here, I'll showcase some of the projects I have worked on and the skills I possess in my arsenal.

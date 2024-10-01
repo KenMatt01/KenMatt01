@@ -41,9 +41,14 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ### *Engineering & Technology Operations*
 Zalora Group | Internship | Selangor, Malaysia
+- End-user support 
+- Systems deployment and maintenance
+- Device Inventory Handling
+- Incident Management
 
 ### *IT Technician*
 Prime Services | Part-Time | Kerala, India
-
-jhjh
+- Software & Hardware Maintenance 
+- Troubleshooting
+- Service record audits
 

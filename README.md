@@ -37,5 +37,13 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 | Scripting and Automation for Threat Mitigation | VAPT                | Splunk               |
 
 
-## 
+## Experience
+
+*Engineering & Technology Operations*
+Zalora Group | Internship
+Selangor, Malaysia
+
+*IT Technician*
+Prime Services | Part-Time
+Kerala, India
 

@@ -20,7 +20,7 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ## Projects
 
-- File Integrity Monitor using Hashing Algorithms
+- [File Integrity Monitor using Hashing Algorithms](https://github.com/KenMatt01/File-Integrity-Monitor)
 - SOC Automation Project
 
 

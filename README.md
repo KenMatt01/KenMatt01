@@ -11,7 +11,7 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ## Certifications
 
-- Security+ by CompTIA
+- Security+ by CompTIA (WIP)
 - Google Cybersecurity Professional Certificate
 - CCNA: Switching, Routing, and Wireless Essentials by CISCO
 - SOC Analyst Learning Path by LetsDefend

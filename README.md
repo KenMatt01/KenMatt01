@@ -38,6 +38,18 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ## Experience
 
+### *Security Researcher*
+Hackerone | Freelance<br>
+<sub>*Feb, 2025 - Present*</sub>
+- Bug Bounty Hunting 
+
+### *IT Technician*
+Prime Services | Part-Time | Kerala, India<br>
+<sub>*Jun, 2024 - Dec, 2024*</sub>
+- Software & Hardware Maintenance 
+- Troubleshooting
+- Service record audits
+
 ### *Engineering & Technology Operations*
 Zalora Group | Internship | Selangor, Malaysia<br>
 <sub>*Aug, 2022 - Dec, 2022*</sub>
@@ -45,11 +57,3 @@ Zalora Group | Internship | Selangor, Malaysia<br>
 - Systems deployment and maintenance
 - Device Inventory Handling
 - Incident Management
-
-### *IT Technician*
-Prime Services | Part-Time | Kerala, India<br>
-<sub>*Jan, 2024 - Oct, 2024*</sub>
-- Software & Hardware Maintenance 
-- Troubleshooting
-- Service record audits
-

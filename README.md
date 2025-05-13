@@ -38,14 +38,9 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ## Experience
 
-### *Security Researcher*
-Hackerone | Freelance<br>
-<sub>*Feb, 2025 - Present*</sub>
-- Bug Bounty Hunting 
-
 ### *IT Technician*
 Prime Services | Part-Time | Kerala, India<br>
-<sub>*Jun, 2024 - Dec, 2024*</sub>
+<sub>*Apr, 2024 - Mar, 2025*</sub>
 - Software & Hardware Maintenance 
 - Troubleshooting
 - Service record audits

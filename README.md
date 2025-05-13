@@ -39,7 +39,7 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 ## Experience
 
 ### *IT Technician*
-Prime Services | Part-Time | Kerala, India<br>
+Prime Services | Full-Time | Kerala, India<br>
 <sub>*Apr, 2024 - Mar, 2025*</sub>
 - Software & Hardware Maintenance 
 - Troubleshooting

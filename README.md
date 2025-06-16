@@ -13,9 +13,11 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 - Security+ by CompTIA (WIP)
 - Google Cybersecurity Professional Certificate
+- AWS Cloud Quest: Cloud Practitioner
 - CCNA: Switching, Routing, and Wireless Essentials by CISCO
 - SOC Analyst Learning Path by LetsDefend
 - Cybersecurity Job Simulation by Mastercard
+- Cybersecurity Job Simulation by Deloitte Australia
 
 
 ## Projects
@@ -34,13 +36,14 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 | Incident Response Planning and Execution      | SQL                  | Microsoft Office     |
 | Case Management with TheHive                  | Networking           | Python               |
 | Scripting and Automation for Threat Mitigation | VAPT                | Splunk               |
+| Amazon Web Services (AWS)                      | Cloud Computing     | AWS Cloud            |
 
 
 ## Experience
 
 ### *IT Technician*
 Prime Services | Full-Time | Kerala, India<br>
-<sub>*Apr, 2024 - Mar, 2025*</sub>
+<sub>*Apr, 2024 - May, 2025*</sub>
 - Software & Hardware Maintenance 
 - Troubleshooting
 - Service record audits

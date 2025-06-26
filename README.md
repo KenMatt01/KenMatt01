@@ -11,7 +11,7 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ## Certifications
 
-- Security+ by CompTIA (WIP)
+- Security+ by CompTIA 
 - Google Cybersecurity Professional Certificate
 - AWS Cloud Quest: Cloud Practitioner
 - CCNA: Switching, Routing, and Wireless Essentials by CISCO

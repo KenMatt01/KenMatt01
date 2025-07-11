@@ -41,17 +41,20 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ## Experience
 
-### *IT Technician*
+### *IT Support Specialist*
 Prime Services | Full-Time | Kerala, India<br>
 <sub>*Apr, 2024 - May, 2025*</sub>
-- Software & Hardware Maintenance 
-- Troubleshooting
-- Service record audits
+- Diagnosed and resolved over 200+ hardware and software issues, ensuring 98% system uptime across office endpoints.
+- Provided multi-platform technical support to 20+ end-users, improving issue resolution speed by 35% through clear troubleshooting workflows.
+- Conducted monthly audits of customer service records and system logs, ensuring 100% compliance with internal quality standards.
+- Collaborated with cross-functional technical teams to implement preventive maintenance routines, reducing recurring issues by 25%.
+- Maintained and optimized inventory for 100+ IT assets, contributing to streamlined tracking and lifecycle management.
 
 ### *Engineering & Technology Operations*
 Zalora Group | Internship | Selangor, Malaysia<br>
 <sub>*Aug, 2022 - Dec, 2022*</sub>
-- End-user support 
-- Systems deployment and maintenance
-- Device Inventory Handling
-- Incident Management
+- Assisted in the deployment and maintenance of IT systems supporting a 24/7 e-commerce warehouse, enhancing operational efficiency.
+- Configured and installed hardware/software for 100+ end-user devices, reducing setup time by 20% compared to previous onboarding cycles.
+- Managed and updated the IT asset inventory of 150+ devices, improving lifecycle tracking accuracy and minimizing asset discrepancies.
+- Supported incident resolution via ticketing system, handling 50+ user support tickets, with a 90% first-response resolution rate.
+- Gained hands-on exposure to enterprise IT infrastructure and foundational incident response processes, contributing to a smoother tech support operation.

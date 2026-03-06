@@ -50,8 +50,7 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 ### *Junior Security Analyst*
 Prime Services | Full-Time | Kerala, India<br>
-<sub>*Apr, 2024 - May, 2025*</sub>
-<sub>*IoT Security Assessment Project*</sub>
+<sub>*June, 2025 - Dec, 2025 | IoT Security Assessment Project*</sub>
 - Performed IoT device security testing to identify vulnerabilities in connected consumer devices.
 - Used Nmap to enumerate network services and detect exposed device interfaces.
 - Monitored and analyzed device network traffic using Wireshark to identify insecure communication channels.
@@ -60,7 +59,7 @@ Prime Services | Full-Time | Kerala, India<br>
 
 ### *IT Support Specialist*
 Prime Services | Full-Time | Kerala, India<br>
-<sub>*Apr, 2024 - May, 2025*</sub>
+<sub>*May, 2024 - Jun, 2025*</sub>
 - Diagnosed and resolved over 200+ hardware and software issues, ensuring 98% system uptime across office endpoints.
 - Provided multi-platform technical support to 20+ end-users, improving issue resolution speed by 35% through clear troubleshooting workflows.
 - Conducted monthly audits of customer service records and system logs, ensuring 100% compliance with internal quality standards.

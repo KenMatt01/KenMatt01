@@ -4,10 +4,10 @@
 I am a cybersecurity and cloud professional focused on security operations, threat detection, and automation.
 
 My work includes:
-• SOC automation workflows integrating Wazuh, Shuffle, and TheHive
-• IoT device security testing and vulnerability assessment
-• File integrity monitoring systems using PowerShell
-• Log analysis and incident investigation
+- SOC automation workflows integrating Wazuh, Shuffle, and TheHive
+- IoT device security testing and vulnerability assessment
+- File integrity monitoring systems using PowerShell
+- Log analysis and incident investigation
 
 I enjoy building security labs that simulate real SOC environments and documenting them here on GitHub.
 

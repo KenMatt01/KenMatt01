@@ -1,17 +1,24 @@
 # Hi there 👋, I'm Ken
 <a href="https://linkedin.com/in/ken-mathews"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a graduate with a Bachelor's in Cybersecurity, and fundamental knowledge in threat analysis, risk management, and network security. Eager to embark on a dynamic career securing digital landscapes against evolving cyber threats. Adept at collaborating with cross-functional teams to ensure the confidentiality, integrity, and availability of sensitive information. Let's connect and explore how I can contribute to your organization's cyber resilience.
+I am a cybersecurity and cloud professional focused on security operations, threat detection, and automation.
 
+My work includes:
+• SOC automation workflows integrating Wazuh, Shuffle, and TheHive
+• IoT device security testing and vulnerability assessment
+• File integrity monitoring systems using PowerShell
+• Log analysis and incident investigation
 
+I enjoy building security labs that simulate real SOC environments and documenting them here on GitHub.
 
-My journey in computer science has led me to develop a passion for cybersecurity & Blue Team activities. I am eager to kickstart my career in this field, specifically to join a SOC/Security tier 1 Analyst.
+Currently pursuing an MSc in Network Management & Cloud Computing while expanding my expertise in SIEM, cloud security, and threat detection engineering.
 Here, I'll showcase some of the projects I have worked on and the skills I possess in my arsenal.
 
 
 ## Certifications
 
-- Security+ by CompTIA 
+- Security+ by CompTIA
+- Microsoft Azure Fundamentals AZ-900
 - Google Cybersecurity Professional Certificate
 - AWS Cloud Quest: Cloud Practitioner
 - CCNA: Switching, Routing, and Wireless Essentials by CISCO
@@ -40,6 +47,16 @@ Here, I'll showcase some of the projects I have worked on and the skills I posse
 
 
 ## Experience
+
+### *Junior Security Analyst*
+Prime Services | Full-Time | Kerala, India<br>
+<sub>*Apr, 2024 - May, 2025*</sub>
+<sub>*IoT Security Assessment Project*</sub>
+- Performed IoT device security testing to identify vulnerabilities in connected consumer devices.
+- Used Nmap to enumerate network services and detect exposed device interfaces.
+- Monitored and analyzed device network traffic using Wireshark to identify insecure communication channels.
+- Evaluated device authentication mechanisms and discovered default credential risks.
+- Provided security recommendations to improve device configuration and network isolation.
 
 ### *IT Support Specialist*
 Prime Services | Full-Time | Kerala, India<br>
